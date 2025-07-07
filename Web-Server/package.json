@@ -1,0 +1,20 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armik-Chopda/NodeJs.git"
+  },
+  "author": "Armik Chopda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armik-Chopda/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Armik-Chopda/NodeJs#readme"
+}
